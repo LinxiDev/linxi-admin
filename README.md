@@ -24,7 +24,7 @@ Linxi-admin是简洁的后台管理系统模板,后端基于Flask+Sqlite3,前端
 ### 一、在线预览 🛫
 
 - Link：http://blog.linxi.tk/#/login
-
+- Link：http://blog.linxi.tk/#/home
 
 ### 二、本地预览 🛫🛫🛫
 
