@@ -1,0 +1,30 @@
+{
+  "name": "linxi-admin",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "@vueuse/core": "^9.3.0",
+    "@vueuse/integrations": "^9.9.0",
+    "axios": "^1.2.1",
+    "element-plus": "^2.2.27",
+    "jquery": "2.2.0",
+    "nprogress": "^0.2.0",
+    "universal-cookie": "^4.0.4",
+    "vue": "^3.2.25",
+    "vue-router": "^4.1.6",
+    "vuex": "next"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "naive-ui": "^2.33.3",
+    "vite": "^4.0.3",
+    "vite-plugin-windicss": "^1.8.10",
+    "windicss": "^3.5.6"
+  }
+}
