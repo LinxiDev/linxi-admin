@@ -1,0 +1,3 @@
+pyjwt
+flask_cors
+user_agents
