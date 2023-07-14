@@ -104,14 +104,14 @@ cpm install --save nprogress
 //图片压缩
 cpm i unplugin-imagemin -D
 
-// 可视化大屏
-// npm install @jiaminghi/data-view
-// Echarts
-// npm install echarts --save
+// ~~可视化大屏~~
+// ~~npm install @jiaminghi/data-view~~
+// ~~Echarts~~
+// ~~npm install echarts --save~~
 ```
 ### 报错处理
 
-#### dataV问题：`@jiaminghi/data-view `  问题如下解决办法:
+#### ~~dataV问题：`@jiaminghi/data-view `  问题如下解决办法:~~ (原首页是用来做大屏数据显示，觉得有点多余，已去除!)
 ``` npm
 1、安装DataV：npm install @jiaminghi/data-view
 2、将node_modules/@jiaminghi/data-view/lib/components/decoration3/src/main.vue中rect标签的:key="i"剪切到有v-for那一层的template中。
